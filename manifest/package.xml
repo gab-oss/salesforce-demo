@@ -1,4 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>ContactResponse</members>
+        <members>ContactsDeactivator</members>
+        <members>MergeRecords</members>
+        <members>Webinar</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Webinar__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <name>ListView</name>
+    </types>
     <version>55.0</version>
 </Package>
